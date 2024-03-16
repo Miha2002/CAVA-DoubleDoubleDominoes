@@ -1,6 +1,6 @@
 # CAVA-DoubleDoubleDominoes
 
-Libraries:
+## Libraries:
 - os
 - math	
 - numpy 		== 1.24.3	
@@ -20,7 +20,7 @@ The following paths are needed:
 	- output folder
 
 
-## Romanian:
+## Română:
 Programul este scris într-un singur fișier .ipynb și poate fi rulat folosind Run All.
 Pentru a rula programul cu succes trebuie să schimbăm path-urile folderelor folosite.
 Toate path-urile care  se găsesc în a doua celulă de cod, sub import-uri.
