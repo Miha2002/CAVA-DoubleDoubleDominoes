@@ -1,14 +1,10 @@
 # CAVA-DoubleDoubleDominoes
 
 Libraries:
-
-	os
- 
-	math	
- 
-	numpy 		== 1.24.3	
- 
-	opencv-python 	== 4.8.1.78
+- os
+- math	
+- numpy 		== 1.24.3	
+- opencv-python 	== 4.8.1.78
 
 Jupyter, Python 3
 
